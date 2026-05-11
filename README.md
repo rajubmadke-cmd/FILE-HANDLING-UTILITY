@@ -27,3 +27,8 @@ Another important aspect of this task is proper exception handling. File operati
 The deliverable for this task is a complete Java script demonstrating all the required file operations along with proper documentation. The documentation should explain the purpose of the program, the classes and methods used, and the steps involved in execution. Clear comments should also be added inside the code so that other developers or evaluators can easily understand the logic.
 
 Overall, this task provides practical exposure to Java file handling concepts and improves programming skills related to data storage and management. It also helps developers understand the importance of input/output operations, exception handling, and structured coding practices in software development.
+
+##output 
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/e1ea28fa-3aef-4388-88c7-4ba31815af63" />
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/174370a5-d298-45ee-aa76-882fa73b54cb" />
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/b81569ff-ecae-41cc-abcb-112fd853fceb" />
