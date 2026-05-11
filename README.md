@@ -32,3 +32,5 @@ Overall, this task provides practical exposure to Java file handling concepts an
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/e1ea28fa-3aef-4388-88c7-4ba31815af63" />
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/174370a5-d298-45ee-aa76-882fa73b54cb" />
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/b81569ff-ecae-41cc-abcb-112fd853fceb" />
+##pdf 
+[CODTECH IT SOLUTIONS raju.docx](https://github.com/user-attachments/files/27610310/CODTECH.IT.SOLUTIONS.raju.docx)
